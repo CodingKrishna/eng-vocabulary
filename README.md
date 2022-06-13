@@ -6,5 +6,9 @@
 | Mercy  | compassion or forgiveness shown towards someone whom it is within one's power to punish or harm.  |
 | contagion  | a disease spread by close contact.  |
 | curbs  | a check or restraint on something.  |
+| starving  | suffering or dying from hunger.  |
+| panting |
+| elope | 
+| adamant | 
 
 
